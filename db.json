@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Post Three edit",
+      "body": "This is the post body wrvgd",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "title": "Post Four",
+      "body": "This is the body",
+      "publishedAt": "10-02-2020",
+      "id": "0LMkK6O"
+    },
+    {
+      "title": "weq",
+      "body": "qwerq",
+      "publishedAt": "2020-12-30",
+      "id": "YZ72nDu"
+    },
+    {
+      "title": "anjana",
+      "body": "anjana body",
+      "publishedAt": "2020-12-01",
+      "id": "LRv6rMB"
+    },
+    {
+      "title": "wsrgvd",
+      "body": "wrsdvgwqe",
+      "publishedAt": "2020-12-04",
+      "id": "f4H9TZV"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "anjana",
+      "email": "anjana@example.com"
+    },
+    {
+      "name": "Nipuni",
+      "email": "nipu@gmail.com",
+      "id": "fDVzP8t"
+    }
+  ]
+}
